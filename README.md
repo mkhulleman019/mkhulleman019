@@ -1,4 +1,4 @@
-{about me}
+## {about me}
 - 👋 Hi, I’m MaKayla! 
 - 👀 I’m interested in finding a job in UI/UX Design and Web Development
 - 🌱 I’m currently learning JavaScript
